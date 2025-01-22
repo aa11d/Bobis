@@ -7,9 +7,9 @@ class Szovegek
     static char[,] palya = new char[30, 50];
     static void Ki_iras()
     {
-
         for (int i = 0; i < palya.GetLength(0); i++)
         {
+            Console.SetCursorPosition(0,i);
             for (int j = 0; j < palya.GetLength(1); j++)
             {
                 System.Console.Write(palya[i, j]);
@@ -41,6 +41,9 @@ class Szovegek
         double spawn_rate = 0.1;
         double spawn = rnd.NextDouble();
         int eses = rnd.Next(1, 4);
+        bool win = false;
+        int buffer = 0;
+
         for (int i = 0; i < palya.GetLength(1); i++)
         {
             if (spawn < spawn_rate)
@@ -51,18 +54,53 @@ class Szovegek
         }
         Ki_iras();
 
-        for (int i = 0; i < palya.GetLength(0); i++)
+        while (!win)
         {
-            for (int j = 0; j < palya.GetLength(1); j++)
+            buffer = 0;
+            for (int i = 0; i < palya.GetLength(1); i++)
             {
-                if (eses == 1 && palya[i-1,j-1] == ' ')
+                if (spawn < spawn_rate)
                 {
-                    palya[i,j] = ' ';
-                    palya[i-1,j-1] = '*';
+                    palya[0, i] = '*';
                 }
-                else if ( )
+                spawn = rnd.NextDouble();
+            }
+            for (int i = 0; i < palya.GetLength(0); i++)
+            {
+                for (int j = 0; j < palya.GetLength(1); j++)
                 {
-                    
+                    //if (i + 1 < palya.GetLength(1) && j - 1 > palya.GetLength(0) && j + 1 < palya.GetLength(0) && palya[i, j] == '*')
+                    //{
+                    if (i + 1 < palya.GetLength(0) - 1 && j - 1 > palya.GetLength(1) - 1 && eses == 1 && palya[i + 1, j - 1] == ' ' && palya[i, j] == '*')
+                    {
+                        palya[i, j] = ' ';
+                        palya[i + 1, j - 1] = '*';
+                    }
+                    else if (i + 1 < palya.GetLength(0) - 1 && eses == 2 && palya[i + 1, j] == ' ' && palya[i, j] == '*')
+                    {
+                        palya[i, j] = ' ';
+                        palya[i + 1, j] = '*';
+                    }
+                    else if (i + 1 < palya.GetLength(0) - 1 && j + 1 < palya.GetLength(1) - 1 && eses == 3 && palya[i + 1, j + 1] == ' ' && palya[i, j] == '*')
+                    {
+                        palya[i, j] = ' ';
+                        palya[i + 1, j + 1] = '*';
+                    }
+                    //}
+                }
+                eses = rnd.Next(1, 3);
+            }
+            Ki_iras();
+            //Thread.Sleep(500);
+            for (int i = 0; i < palya.GetLength(1); i++)
+            {
+                if (palya[0, i] == '*')
+                {
+                    buffer++;
+                }
+                if (buffer == palya.GetLength(1) - 1)
+                {
+                    win = true;
                 }
             }
         }
