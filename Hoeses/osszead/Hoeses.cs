@@ -88,7 +88,7 @@ class Szovegek
                     }
                     //}
                 }
-                eses = rnd.Next(1, 3);
+                eses = rnd.Next(0, 3);
             }
             Ki_iras();
             //Thread.Sleep(500);
