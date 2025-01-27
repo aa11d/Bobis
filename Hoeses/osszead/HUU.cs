@@ -41,6 +41,8 @@ class HUU
 
         int babux = n / 2;
         int babuy = m / 2;
+        
+        int telehas = 10;
 
         KajaElhelyezes(30);
         
@@ -90,6 +92,11 @@ class HUU
                     babux--;
                     Console.SetCursorPosition(babux,babuy);
                     Console.Write('\u263A');
+                }
+
+                if (palya[babux, babuy] > 0)
+                {
+                    telehas += palya[babux,babuy];                   
                 }
             }
         }
