@@ -62,7 +62,7 @@ class HUU
                     exit = true;
                 }
                 else if (pressed.Key == ConsoleKey.UpArrow && babuy > 0)
-                {
+                {   
                     Console.SetCursorPosition(babux,babuy);
                     Console.Write(' ');
                     babuy--;
