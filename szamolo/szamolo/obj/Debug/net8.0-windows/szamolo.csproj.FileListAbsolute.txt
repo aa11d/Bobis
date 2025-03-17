@@ -1,0 +1,17 @@
+D:\bobis_win\Suli\szamolo\szamolo\bin\Debug\net8.0-windows\szamolo.exe
+D:\bobis_win\Suli\szamolo\szamolo\bin\Debug\net8.0-windows\szamolo.deps.json
+D:\bobis_win\Suli\szamolo\szamolo\bin\Debug\net8.0-windows\szamolo.runtimeconfig.json
+D:\bobis_win\Suli\szamolo\szamolo\bin\Debug\net8.0-windows\szamolo.dll
+D:\bobis_win\Suli\szamolo\szamolo\bin\Debug\net8.0-windows\szamolo.pdb
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\Valami2.Form1.resources
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.csproj.GenerateResource.cache
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.GeneratedMSBuildEditorConfig.editorconfig
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.AssemblyInfoInputs.cache
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.AssemblyInfo.cs
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.csproj.CoreCompileInputs.cache
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.sourcelink.json
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.dll
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\refint\szamolo.dll
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.pdb
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\szamolo.genruntimeconfig.cache
+D:\bobis_win\Suli\szamolo\szamolo\obj\Debug\net8.0-windows\ref\szamolo.dll

@@ -46,6 +46,7 @@
             button24 = new Button();
             listBox1 = new ListBox();
             button11 = new Button();
+            button13 = new Button();
             SuspendLayout();
             // 
             // Ballszovegdoboz
@@ -174,7 +175,7 @@
             button12.Font = new Font("Segoe UI", 12F, FontStyle.Bold);
             button12.Location = new Point(55, 358);
             button12.Name = "button12";
-            button12.Size = new Size(124, 50);
+            button12.Size = new Size(50, 50);
             button12.TabIndex = 13;
             button12.Text = "0";
             button12.UseVisualStyleBackColor = true;
@@ -183,7 +184,7 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
-            button4.Location = new Point(410, 277);
+            button4.Location = new Point(410, 259);
             button4.Name = "button4";
             button4.Size = new Size(76, 79);
             button4.TabIndex = 25;
@@ -216,7 +217,7 @@
             // button24
             // 
             button24.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
-            button24.Location = new Point(299, 277);
+            button24.Location = new Point(299, 259);
             button24.Name = "button24";
             button24.Size = new Size(78, 79);
             button24.TabIndex = 28;
@@ -236,7 +237,7 @@
             // button11
             // 
             button11.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
-            button11.Location = new Point(299, 362);
+            button11.Location = new Point(299, 358);
             button11.Name = "button11";
             button11.Size = new Size(187, 79);
             button11.TabIndex = 30;
@@ -244,11 +245,23 @@
             button11.UseVisualStyleBackColor = true;
             button11.Click += Muvelet_katt;
             // 
+            // button13
+            // 
+            button13.Font = new Font("Segoe UI", 18F, FontStyle.Bold);
+            button13.Location = new Point(129, 358);
+            button13.Name = "button13";
+            button13.Size = new Size(50, 50);
+            button13.TabIndex = 31;
+            button13.Text = ",";
+            button13.UseVisualStyleBackColor = true;
+            button13.Click += BalSzamokKatt;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button13);
             Controls.Add(button11);
             Controls.Add(listBox1);
             Controls.Add(button24);
@@ -294,5 +307,6 @@
         private Button button24;
         private ListBox listBox1;
         private Button button11;
+        private Button button13;
     }
 }

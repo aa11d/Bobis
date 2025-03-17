@@ -8,7 +8,7 @@ namespace Valami2
         }
 
         bool elsoszam;
-        int bal, jobb;
+        float bal, jobb;
         char muvelet;
 
         private void BalSzamokKatt(object sender, EventArgs e)
@@ -36,7 +36,7 @@ namespace Valami2
         private void Muvelet_katt(object sender, EventArgs e)
         {
             bool hiba = false;
-            int ered = 0;
+            float ered = 0;
             char muv = (sender as Button).Text[0];
 
             if (elsoszam)
@@ -53,7 +53,7 @@ namespace Valami2
                     case '-':
                     case '*':
                     case '/':
-                        bal = int.Parse(Ballszovegdoboz.Text);
+                        bal = float.Parse(Ballszovegdoboz.Text);
                         muvelet = muv;
                         listBox1.Items.Add(Ballszovegdoboz.Text + " " + muvelet.ToString() + " ");
                         elsoszam = false;
@@ -65,7 +65,7 @@ namespace Valami2
             {
                 if (muv == '=')
                 {
-                    jobb = int.Parse(Ballszovegdoboz.Text);
+                    jobb = float.Parse(Ballszovegdoboz.Text);
                     switch (muvelet)
                     {
                         case '+':
@@ -116,26 +116,9 @@ namespace Valami2
                         Ballszovegdoboz.Text = "0";
                         elsoszam = true;
                     }
-
-
-                    if (muv == )
-                    {
-                        
-                    }
-
-
-                    if (!hiba)
-                    {
-                        Ballszovegdoboz.Text = ered.ToString();
-                        Jobbszovegboboz.Text = "0";
-                    }
-                    else
-                    {
-                        MessageBox.Show("Ne ossz nullával!");
-                    }
                 }
-            }
-            }
+            }    
+        }
         
 
 
