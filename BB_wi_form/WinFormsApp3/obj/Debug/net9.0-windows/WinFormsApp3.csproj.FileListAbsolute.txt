@@ -1,0 +1,17 @@
+D:\BB_wi_form\WinFormsApp3\bin\Debug\net9.0-windows\WinFormsApp3.exe
+D:\BB_wi_form\WinFormsApp3\bin\Debug\net9.0-windows\WinFormsApp3.deps.json
+D:\BB_wi_form\WinFormsApp3\bin\Debug\net9.0-windows\WinFormsApp3.runtimeconfig.json
+D:\BB_wi_form\WinFormsApp3\bin\Debug\net9.0-windows\WinFormsApp3.dll
+D:\BB_wi_form\WinFormsApp3\bin\Debug\net9.0-windows\WinFormsApp3.pdb
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.Form1.resources
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.dll
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\refint\WinFormsApp3.dll
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.pdb
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\ref\WinFormsApp3.dll
+D:\BB_wi_form\WinFormsApp3\obj\Debug\net9.0-windows\WinFormsApp3.Properties.Resources.resources

@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "net9.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\bobis.barnabas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\bobis.barnabas\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
