@@ -1,0 +1,17 @@
+D:\bobis_win\Suli\Lapok\Lapok\bin\Debug\net8.0-windows\Lapok.exe
+D:\bobis_win\Suli\Lapok\Lapok\bin\Debug\net8.0-windows\Lapok.deps.json
+D:\bobis_win\Suli\Lapok\Lapok\bin\Debug\net8.0-windows\Lapok.runtimeconfig.json
+D:\bobis_win\Suli\Lapok\Lapok\bin\Debug\net8.0-windows\Lapok.dll
+D:\bobis_win\Suli\Lapok\Lapok\bin\Debug\net8.0-windows\Lapok.pdb
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.Form1.resources
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.csproj.GenerateResource.cache
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.GeneratedMSBuildEditorConfig.editorconfig
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.AssemblyInfoInputs.cache
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.AssemblyInfo.cs
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.csproj.CoreCompileInputs.cache
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.sourcelink.json
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.dll
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\refint\Lapok.dll
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.pdb
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\Lapok.genruntimeconfig.cache
+D:\bobis_win\Suli\Lapok\Lapok\obj\Debug\net8.0-windows\ref\Lapok.dll
