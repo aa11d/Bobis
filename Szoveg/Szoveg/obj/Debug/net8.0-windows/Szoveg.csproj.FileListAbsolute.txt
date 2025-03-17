@@ -1,0 +1,17 @@
+D:\bobis_win\Suli\Szoveg\Szoveg\bin\Debug\net8.0-windows\Szoveg.exe
+D:\bobis_win\Suli\Szoveg\Szoveg\bin\Debug\net8.0-windows\Szoveg.deps.json
+D:\bobis_win\Suli\Szoveg\Szoveg\bin\Debug\net8.0-windows\Szoveg.runtimeconfig.json
+D:\bobis_win\Suli\Szoveg\Szoveg\bin\Debug\net8.0-windows\Szoveg.dll
+D:\bobis_win\Suli\Szoveg\Szoveg\bin\Debug\net8.0-windows\Szoveg.pdb
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.Fo_Ablak.resources
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.csproj.GenerateResource.cache
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.GeneratedMSBuildEditorConfig.editorconfig
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.AssemblyInfoInputs.cache
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.AssemblyInfo.cs
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.csproj.CoreCompileInputs.cache
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.sourcelink.json
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.dll
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\refint\Szoveg.dll
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.pdb
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\Szoveg.genruntimeconfig.cache
+D:\bobis_win\Suli\Szoveg\Szoveg\obj\Debug\net8.0-windows\ref\Szoveg.dll
